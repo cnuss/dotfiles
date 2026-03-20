@@ -1,0 +1,10 @@
+[user]
+	name = Christian Nuss
+	email = christian.nuss@gmail.com
+	signingkey = C46D2D3B468D1790
+[init]
+	defaultBranch = main
+[commit]
+	gpgsign = true
+[gpg]
+	program = gpg
